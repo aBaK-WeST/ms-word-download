@@ -19,6 +19,13 @@ ms-word-download/
 ├── utils/
 │   └── createWordDoc.js
 
+"dependencies": {
+  "docx": "^9.5.1",
+  "next": "15.3.4",
+  "react": "^19.0.0",
+  "react-dom": "^19.0.0"
+}
+
 Download the repository & navigate to the folder "cd ms-word-download"
 npm install
 npm run dev
