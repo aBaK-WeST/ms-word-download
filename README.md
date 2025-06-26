@@ -11,7 +11,7 @@ ESLint: No
 src directory: No
 
 Project structure:
-json-to-word-js/
+ms-word-download/
 ├── app/
 │   └── page.js
 ├── components/
